@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.5.0.0</version>
+  <version>1.5.0.1</version>
   <url>https://github.com/StaticCC/SPUSOURCE/raw/main/spu.zip</url>
   <changelog>https://sites.google.com/view/servicepartutility/home</changelog>
   <mandatory>true</mandatory>
